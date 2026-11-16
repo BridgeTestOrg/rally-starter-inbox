@@ -1,0 +1,10 @@
+{
+  "courts": [
+    { "id": "hb-1", "name": "Hoboken Pier Court 1", "city": "Hoboken", "timeZone": "America/New_York", "lights": true, "parking": false, "opens": "07:00", "closes": "22:00", "closures": ["2026-12-25"] },
+    { "id": "hb-2", "name": "Hoboken Pier Court 2", "city": "Hoboken", "timeZone": "America/New_York", "lights": false, "parking": false, "opens": "08:00", "closes": "20:00", "closures": [] },
+    { "id": "hr-1", "name": "Highlands Ranch Park Court 1", "city": "Highlands Ranch", "timeZone": "America/Denver", "lights": true, "parking": true, "opens": "07:00", "closes": "21:00", "closures": [] },
+    { "id": "hr-2", "name": "Highlands Ranch Park Court 2", "city": "Highlands Ranch", "timeZone": "America/Denver", "lights": false, "parking": true, "opens": "08:00", "closes": "19:00", "closures": ["2026-12-25"] },
+    { "id": "sm-1", "name": "Santa Monica Beach Court 1", "city": "Santa Monica", "timeZone": "America/Los_Angeles", "lights": true, "parking": true, "opens": "06:00", "closes": "22:00", "closures": [] },
+    { "id": "sm-2", "name": "Santa Monica Beach Court 2", "city": "Santa Monica", "timeZone": "America/Los_Angeles", "lights": false, "parking": false, "opens": "07:00", "closes": "19:00", "closures": [] }
+  ]
+}
